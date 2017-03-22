@@ -1,24 +1,10 @@
-# Module 3: Markdown
+# Markdown
 
-## Overview
 Markdown syntax provides a simple way to describe the desired formatting of text documents. In fact, all of the learning modules (including this one you're reading) were written using Markdown! With only a small handful of options, Markdown allows you to provide structure to a document, as well as formatting to your text (like **bold**, or _italics_). There are a number of programs that support the rendering of Markdown, including GitHub, Slack, and StackOverflow (note: the syntax implementation may vary slightly across programs). In this section, you'll learn the basics of Markdown syntax, and how to leverage it.
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Contents**
 
-- [Resources](#resources)
-- [Writing Markdown](#writing-markdown)
-  - [Document Structure](#document-structure)
-  - [Text formatting](#text-formatting)
-- [Rendering Markdown](#rendering-markdown)
-  - [Markdown Reader (Chrome Extension)](#markdown-reader-chrome-extension)
-  - [Online Editors](#online-editors)
-  - [Macdown](#macdown)
+Helpful links:
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-## Resources
 - [Original Markdown Source](https://daringfireball.net/projects/markdown/)
 - [GitHub Markdown Basics](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 - [Slack Markdown](https://get.slack.help/hc/en-us/articles/202288908-Formatting-your-messages)
@@ -31,7 +17,7 @@ Markdown is an easy to write (and easy to read) syntax for declaring document st
 ### Document Structure
 Markdown isn't just about adding **bold** and _italics_ to your paragraphs - it enables you to create distinct sections of your page, such as a header or a block of code. Markdown is most easily explained through example, so let's take a look at how a few simple approaches can produce a thoroughly formatted document (code on the left, rendered version on the right):
 
-![screenshot of markdown structure](imgs/markdown-structure.png)
+![screenshot of markdown structure](m4-imgs/markdown-structure.png)
 
 As you can see, the document (right) is produced using the following Markdown shorthand:
 
@@ -48,7 +34,7 @@ And as you can see, Markdown can even make tables!
 ### Text formatting
 In addition to lending structure to your documents, the use of Markdown allows you to declare text formatting options. Let's take a look at another example:
 
-![screenshot of markdown text formatting](imgs/markdown-text.png)
+![screenshot of markdown text formatting](m4-imgs/markdown-text.png)
 
 | Symbol | Format	|
 | ------------- |  ------------- |
@@ -70,6 +56,6 @@ There are a variety of Markdown editors online that you can use to practice Mark
 ### Macdown
 Macdown is a program (for Macs only, unfortunately) that is designed for writing Markdown documents. It's biggest advantage is that it provides a live view of how your Markdown document will be rendered:
 
-![macdown-preview-screenshot](imgs/macdown-ss.png)
+![macdown-preview-screenshot](m4-imgs/macdown-ss.png)
 
 Download [here](http://macdown.uranusjr.com/).
