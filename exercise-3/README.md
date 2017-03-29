@@ -1,6 +1,6 @@
 # Exercise-2
 
-As described in [module-4](https://github.com/INFO-201/m4-git-intro), you should begin by forking this repository, then cloning it to your local machine (if you haven't already).
+As described in [chapter 5](https://info201-s17.github.io/book/introduction-to-git-and-github.html), you should begin by forking this repository, then cloning it to your local machine (if you haven't already).
 
 In the space below, you'll provide some information about a terminal command you've learned thus far in the class. In particular, you should include the following:
 
