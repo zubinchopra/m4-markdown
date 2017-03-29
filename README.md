@@ -47,15 +47,11 @@ For more thorough lists of Markdown options, see the online [resources](#resourc
 ## Rendering Markdown
 In order to view the rendered version of your Markdown sytax, you need to use a program that converts from Markdown into a formatted document. Luckily, GitHub will automatically render your `README.md` files, and Slack/StackOverflow will automatically format your messages. However, it can be helpful to preview your rendered markdown before pushing your code. Here are a few options to do so:
 
-### Markdown Reader (Chrome Extension)
-There are a number of Google Chrome Extensions that you can install that will render Markdown files for you. One which I've found useful is [Markdown Reader](https://chrome.google.com/webstore/detail/markdown-reader/gpoigdifkoadgajcincpilkjmejcaanc?hl=en), which provides you with a simple rendering of a Markdown file (note, it may differ slightly from the way GitHub would render the document). Once you've installed the Extension, you can drag + drop a `.md` file into a blank Chrome tab to view the formatted document. Double-click to view the raw code.
-
 ### Online Editors
 There are a variety of Markdown editors online that you can use to practice Markdown. This isn't likely how you'll want to write your code, but they're a fun sandbox to get started. One I've found easy to use is [dillinger](http://dillinger.io/), though there are plenty if you are looking for something more specific.
 
-### Macdown
-Macdown is a program (for Macs only, unfortunately) that is designed for writing Markdown documents. It's biggest advantage is that it provides a live view of how your Markdown document will be rendered:
+### Markdown Reader (Chrome Extension)
+There are a number of Google Chrome Extensions that you can install that will render Markdown files for you. One which I've found useful is [Markdown Reader](https://chrome.google.com/webstore/detail/markdown-reader/gpoigdifkoadgajcincpilkjmejcaanc?hl=en), which provides you with a simple rendering of a Markdown file (note, it may differ slightly from the way GitHub would render the document). Once you've installed the Extension, you can drag + drop a `.md` file into a blank Chrome tab to view the formatted document. Double-click to view the raw code.
 
-![macdown-preview-screenshot](m4-imgs/macdown-ss.png)
-
-Download [here](http://macdown.uranusjr.com/).
+### Atom Markdown Preview
+The text-editor **Atom** has a number of _packages_ that you can install that enhance the functionality of the text editor. To install a package in atom, see the instructions [here](http://flight-manual.atom.io/using-atom/sections/atom-packages/). Then, once you **install** and **enable** the package, you'll be able to create a preview of your Markdown document by simply hitting `ctrl + shift + m`
